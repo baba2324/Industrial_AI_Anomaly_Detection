@@ -7,10 +7,6 @@ This repository contains industrial AI projects focused on anomaly detection in 
 The projects were developed based on anomaly detection methodologies from Brainworks, an AI startup recognized with a Grand Prize for its industrial AI technologies.  
 The training program provided exposure to production-grade industrial AI workflows and real-world manufacturing anomaly detection architectures.
 
-
----
-<img width="719" height="560" alt="image" src="https://github.com/user-attachments/assets/491433cd-7f18-494c-8ed8-78db890e6784" />
-
 ## 1. PCB Defect Detection
 ### CNN-Based Spatial Anomaly Detection for PCB Manufacturing
 
@@ -28,6 +24,8 @@ The training program provided exposure to production-grade industrial AI workflo
 - Applied data augmentation to improve minority defect representation
 - Reduced false positives while maintaining high defect recall for deployment feasibility
 
+- 
+<img width="719" height="560" alt="image" src="https://github.com/user-attachments/assets/491433cd-7f18-494c-8ed8-78db890e6784" />
 ---
 
 ## 2. Semiconductor Wafer Process Anomaly Detection
