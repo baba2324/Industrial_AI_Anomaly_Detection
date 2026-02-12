@@ -24,7 +24,7 @@ The training program provided exposure to production-grade industrial AI workflo
 - Applied data augmentation to improve minority defect representation
 - Reduced false positives while maintaining high defect recall for deployment feasibility
 
-#### Performance Visualization<img src="assets/pcb_confusion_matrix.png" width="500">
+#### Performance Visualization
 <img width="719" height="560" alt="image" src="https://github.com/user-attachments/assets/491433cd-7f18-494c-8ed8-78db890e6784" />
 ---
 
